@@ -1,0 +1,13 @@
+Jendouba,Tabarka
+Tabarka,Bizert
+Bizert,Manouba
+Manouba,Tunis
+Karouan,Seliana
+Seliana,Kef
+Kef,Beja
+Beja,Tunis
+Mednine,Gabes
+Gabes,Sfax
+Sfax,Sousse,
+Sousse,Hammamet
+Hammamet,Tunis
